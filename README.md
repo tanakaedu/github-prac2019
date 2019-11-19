@@ -69,16 +69,12 @@ git remote add upstream https://github.com/フォーク元のアカウント名/
 # 最新の状態に更新する
 マージが完了して、新しい内容を自分の作業用リポジトリーに持ってきたい場合の手順を示す。
 
-- GitHub Desktopで、ブランチを*master*にしておく
-- コマンドプロンプトに切り替えるか、閉じていたらGitHub Desktopの*Repository*メニューから、*Open in Command Prompt*を選択
-- 以下を入力して実行する
+- GitHub Desktopに切り替える
+- Commitをして、*Changes*にファイルがない状態にしておく
+- *Fetch origin*ボタンをクリックして、upstreamの更新を取得する
+- *Current branch*ボタンをクリックして、一番下の*Choose a branch to merge into master*をクリックして、*upstream/master*を選択して、マージを実行する
 
-```
-git fetch upstream
-git merge upstream/master --allow-unrelated-histories
-```
-
-以上で、自動的にマージができるならマージが実行される。失敗した場合は、GitHub Desktopに切り替えて、*Open in Atom*で一つずつ開いて、衝突を解消していく。
+以上で、自動的にマージができるならマージが実行される。失敗した場合は、*Open in Atom*で一つずつ開いて、衝突を確認しながら解消していく。
 
 古い作業用ブランチは削除して、新しいブランチで作業するとすっきりと作業ができる。
 
