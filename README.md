@@ -1,11 +1,11 @@
 # github-prac2019
 2019年度GitHubの練習用リポジトリー
 
-- [方針]()
-- [最初の準備]()
-- [作業時の約束事]()
-- [自分が行った変更点をマスターに統合する]()
-- [最新の状態に更新する]()
+- [方針](https://github.com/tanakaedu/github-prac2019/blob/master/README.md#%E6%96%B9%E9%87%9D)
+- [最初の準備](https://github.com/tanakaedu/github-prac2019/blob/master/README.md#%E6%9C%80%E5%88%9D%E3%81%AE%E6%BA%96%E5%82%99)
+- [作業時の約束事](https://github.com/tanakaedu/github-prac2019/blob/master/README.md#%E4%BD%9C%E6%A5%AD%E6%99%82%E3%81%AE%E7%B4%84%E6%9D%9F%E4%BA%8B)
+- [自分が行った変更点をマスターに統合する](https://github.com/tanakaedu/github-prac2019/blob/master/README.md#%E8%87%AA%E5%88%86%E3%81%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E5%A4%89%E6%9B%B4%E7%82%B9%E3%82%92%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AB%E7%B5%B1%E5%90%88%E3%81%99%E3%82%8B)
+- [最新の状態に更新する](https://github.com/tanakaedu/github-prac2019/blob/master/README.md#%E6%9C%80%E6%96%B0%E3%81%AE%E7%8A%B6%E6%85%8B%E3%81%AB%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B)
 
 
 # 方針
